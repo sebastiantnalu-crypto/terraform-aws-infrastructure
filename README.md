@@ -13,21 +13,33 @@ Internet -> Internet Gateway -> VPC -> Public Subnet -> Application Load Balance
 ## Technologies Used
 
 Terraform  
+
 Amazon Web Services (AWS)  
+
 EC2  
+
 VPC  
+
 Application Load Balancer  
+
 Security Groups 
 
 ## Deployment
 
 Clone the repository
-git clone https://github.com/yourusername/terraform-aws-infrastructure.git
+
+git clone https://github.com/sebastiantnalu-crypto/terraform-aws-infrastructure.git
+
 Initialize Terraform
+
 terraform init
-Preview infrastructure
+ 
+Preview infrastructure 
+
 terraform plan
+
 Deploy infrastructure
+
 terraform apply
 
 ## Key Learning Outcomes
