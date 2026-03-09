@@ -8,17 +8,7 @@ The goal of this project is to demonstrate Infrastructure as Code (IaC) principl
 
 ## Architecture
 
-Internet  
-│  
-Internet Gateway  
-│  
-VPC  
-│  
-Public Subnet  
-│  
-Application Load Balancer  
-│  
-EC2 Instance
+Internet -> Internet Gateway -> VPC -> Public Subnet -> Application Load Balancer -> EC2 Instance
 
 ## Technologies Used
 
